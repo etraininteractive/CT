@@ -1,0 +1,12 @@
+{ 
+        
+    "name": "etrain-interactive/ct",
+    "description": "Custom Tables (CT) is a WordPress developers toolkit to handle custom database table workflow similar to WordPress CPT.",
+    "type": "library",
+    "keywords": [],
+    "homepage": "https://github.com/etraininteractive/CT",
+    "repositories" : [],
+    "autoload": {
+        "files": [ "init.php" ]
+    }
+}
