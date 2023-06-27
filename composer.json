@@ -7,6 +7,8 @@
     "homepage": "https://github.com/etraininteractive/CT",
     "repositories" : [],
     "autoload": {
-        "files": [ "wp-init.php" ]
+        "psr-4": {
+          "Etrain\\CT\\": "/"
+        }
     }
 }
