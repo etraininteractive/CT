@@ -7,6 +7,6 @@
     "homepage": "https://github.com/etraininteractive/CT",
     "repositories" : [],
     "autoload": {
-        "files": [ "init.php" ]
+        "files": [ "wp-init.php" ]
     }
 }
